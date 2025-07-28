@@ -18,6 +18,7 @@ admin_symptoms.php: Complete symptom management (add/edit/delete)
 admin_logout.php: Secure logout functionality
 
 🚀 Key Features
+
 For Users:
 Symptom collection form with demographics
 Educational information about each symptom
