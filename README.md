@@ -40,10 +40,15 @@ Audit trails with timestamps
 Soft deletes for data integrity
 
 �� Setup Instructions
+
 Set up your web server (Apache/Nginx with PHP)
+
 Import the database: mysql -u root -p < database_setup.sql
+
 Configure database in config.php
+
 Access the system:
+
 User interface: symptom_checker_with_db.html
 Admin panel: admin_login.php
 
