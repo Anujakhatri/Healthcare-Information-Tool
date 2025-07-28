@@ -50,5 +50,6 @@ Configure database in config.php
 Access the system:
 
 User interface: symptom_checker_with_db.html
+
 Admin panel: admin_login.php
 
