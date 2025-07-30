@@ -33,6 +33,7 @@ View user submissions and patterns
 Activity logging for security
 
 Database Features:
+
 Structured SQL with proper relationships
 JSON storage for flexible symptom arrays
 Emergency case tracking
